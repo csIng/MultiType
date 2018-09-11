@@ -52,4 +52,9 @@
         android:title="MoreApisPlayground"
         app:showAsAction="never"/>
 
+    <item
+        android:id="@+id/DataBinding"
+        android:title="Binding"
+        app:showAsAction="never"/>
+
 </menu>

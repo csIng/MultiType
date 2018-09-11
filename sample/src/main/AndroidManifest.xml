@@ -46,6 +46,7 @@
         <activity android:name=".payload.TestPayloadActivity"/>
 
         <activity android:name=".moreApis.MoreApisPlayground"/>
+        <activity android:name=".binding.DataBindingActivity" />
 
     </application>
 
